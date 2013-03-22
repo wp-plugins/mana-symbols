@@ -28,14 +28,10 @@ Magic: The Gathering, the mana symbols, the tap symbol and all other related ima
 = What symbols are supported? =
 
 Regular mana: {W}, {10}, {XR}, {WUBRG}
-
 Hybrid mana: {W/U}, {2B/R}
-
 Monocolored hybrid mana: {2/R}, {2/W2/W2/W}
-
 Phyrexian mana: {GP}, {1BPBP}
-
-Tap, untap symbols and snow mana: {T}, {Q}, {S}
+Tap/untap symbols and snow mana: {T}, {Q}, {S}
 
 == Screenshots ==
 
